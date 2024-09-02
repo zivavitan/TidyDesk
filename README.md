@@ -3,7 +3,7 @@
 ## TidyDesk is a powerful and intuitive folder organization tool designed to help you keep your Mac tidy. Whether you’re managing your personal files, work documents, or creative projects, TidyDesk ensures everything is in its rightful place with just a few clicks.
 
  _________________________________________________________________________________________________________________________________________________________________
-
+![TidyDesk-CoverMaster](Images/TD-Master.png)
 ### Features
 
 1. Multi-Folder Support
@@ -41,6 +41,8 @@
 	•	App Information: View information about the version of TidyDesk, the creator, and the open-source license.
  _________________________________________________________________________________________________________________________________________________________________
 
+<img src="Images/TD-Main.png" alt="TidyDesk Main Page" width="450"/>
+
 ### Buttons and Their Functions
 
 Select Folder 1 & Select Folder 2
@@ -57,10 +59,15 @@ View Rules
 	•	Function: Opens a dialog where you can view the current file organization rules.
 	•	Add New Rule: Add custom rules by specifying a file extension and the target folder.
 	•	Delete Rule: Delete existing rules by specifying their index.
+ 
+ <img src="Images/TD-Rules.png" alt="TidyDesk Rules Page" width="200"/>
+
 
 Schedule Tasks
 
 	•	Function: Set up automated scheduling to run the organization task at regular intervals.
+ 
+  <img src="Images/TD-Scheduler.png" alt="TidyDesk Schedule Page" width="200"/>
 
 Undo Last Operation
 
