@@ -40,9 +40,9 @@
 
 	•	App Information: View information about the version of TidyDesk, the creator, and the open-source license.
  _________________________________________________________________________________________________________________________________________________________________
-
+<div align="center">
 <img src="Images/TD-Main.png" alt="TidyDesk Main Page" width="450"/>
-
+</div>
 ### Buttons and Their Functions
 
 Select Folder 1 & Select Folder 2
@@ -59,15 +59,16 @@ View Rules
 	•	Function: Opens a dialog where you can view the current file organization rules.
 	•	Add New Rule: Add custom rules by specifying a file extension and the target folder.
 	•	Delete Rule: Delete existing rules by specifying their index.
- 
+ <div align="center">
  <img src="Images/TD-Rules.png" alt="TidyDesk Rules Page" width="200"/>
-
+</div>
 
 Schedule Tasks
 
 	•	Function: Set up automated scheduling to run the organization task at regular intervals.
- 
+  <div align="center">
   <img src="Images/TD-Scheduler.png" alt="TidyDesk Schedule Page" width="200"/>
+</div>
 
 Undo Last Operation
 
