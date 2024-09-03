@@ -43,6 +43,7 @@
 <div align="center">
 <img src="Images/TD-Main.png" alt="TidyDesk Main Page" width="450"/>
 </div>
+
 ### Buttons and Their Functions
 
 Select Folder 1 & Select Folder 2
