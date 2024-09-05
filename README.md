@@ -97,7 +97,7 @@ About
 ### Installation
 
 	1.	Download the Application:
-	•	Visit the Releases section of the GitHub repository to download the latest DMG version of TidyDesk for macOS. (
+	•	Visit the Releases section of the GitHub repository to download the latest Zip version of TidyDesk for macOS. (https://github.com/zivavitan/TidyDesk/releases/tag/TidyDesk1.0R2)
 	2.	Install the Application:
 	•	Drag the TidyDesk.app file to your Applications folder.
 	3.	Run TidyDesk:
