@@ -97,15 +97,16 @@ About
 ### Installation
 
 	1.	Download the Application:
-	•	Visit the Releases section of the GitHub repository to download the latest Zip version of TidyDesk for macOS. (https://github.com/zivavitan/TidyDesk/releases/tag/TidyDesk1.0R2)
+	•	Visit the Releases section of the GitHub repository to download the latest Zip version of TidyDesk for macOS. 
+ 		(https://github.com/zivavitan/TidyDesk/releases/tag/TidyDesk1.0R2)
 	2.	Install the Application:
-	•	Drag the TidyDesk.app file to your Applications folder.
+	•	Extract TidyDesk-1.0.2.zip and copy the TidyDesk.app file to your Applications folder.
 	3.	Run TidyDesk:
 	•	Open TidyDesk from your Applications folder. The app should run without requiring any additional dependencies.
 
 Version Control
 
-Version 1.0.1
+Version 1.0.2
 
 	•	Initial Release: The first stable version of TidyDesk, featuring full folder organization capabilities, scheduling, duplicate file detection, and undo functionality.
 	•	Multi-Folder Support: Added support for selecting and organizing two folders simultaneously.
